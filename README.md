@@ -1,2 +1,5 @@
 # hello-world
-Test to learn the way around GitHub
+<!-- this is my changes-->
+Hi Everyone!
+
+New to GitHub, and I enjoy coding and design
